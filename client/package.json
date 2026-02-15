@@ -15,7 +15,7 @@
     "@heroui/react": "^2.7.6",
     "@internationalized/date": "^3.5.3",
     "@reduxjs/toolkit": "^2.2.1",
-    "ace-builds": "^1.4.12",
+    "ace-builds": "^1.43.6",
     "allotment": "^1.19.3",
     "chart.js": "^4.4.2",
     "chartjs-plugin-datalabels": "^2.0.0",
