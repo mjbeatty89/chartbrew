@@ -13,7 +13,7 @@
   },
   "dependencies": {
     "@heroui/react": "^2.7.6",
-    "@internationalized/date": "^3.5.3",
+    "@internationalized/date": "^3.10.1",
     "@reduxjs/toolkit": "^2.2.1",
     "ace-builds": "^1.4.12",
     "allotment": "^1.19.3",
