@@ -12,7 +12,7 @@
     "prepareSettings": "echo n | cp -vipr src/config/settings.template.js src/config/settings.js | true"
   },
   "dependencies": {
-    "@heroui/react": "^2.7.6",
+    "@heroui/react": "^2.8.7",
     "@internationalized/date": "^3.5.3",
     "@reduxjs/toolkit": "^2.2.1",
     "ace-builds": "^1.4.12",
